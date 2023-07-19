@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:SwiftUI-BootCamp/Bootcamp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftUI-CryptoApp/SwiftUI-CryptoApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftUI-MapApp/SwiftUI-MapApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Continued Learning/Continued Learning.xcodeproj">
+   </FileRef>
+</Workspace>
